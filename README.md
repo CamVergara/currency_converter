@@ -3,8 +3,8 @@
 Currency Converter is a Python writen code that you can use to convert currency to dollar.
 
 Snap of the program running :
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/107360657/173623752-3b6c83ea-f449-42f0-aa7f-422721be061f.gif)
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/107360657/173623752-3b6c83ea-f449-42f0-aa7f-422721be061f.gif)
 
 # With Currency Converter you can convert:
 
